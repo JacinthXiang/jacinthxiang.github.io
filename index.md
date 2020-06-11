@@ -1,5 +1,13 @@
-## Welcome to Jacinth's portfolio page
+## Welcome to Jacinth's porfolio page
 
+Jacinth Xiang is a graphic designer and photographer who devoted to using visual language and new technology to observe and change the human lifestyle. Recently, she will receive a bachelor's degree in visual communication design from Tsinghua University and applying for an MFA program to upgrade her theoretical design philosophy.
+
++
+##contact her:
+##xiangjx1998@gmail.com
+##jacinthxiang@126.com
+##+86 18800121707
++
 You can use the [editor on GitHub](https://github.com/JacinthXiang/jacinthxiang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
